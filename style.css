@@ -1,0 +1,16 @@
+body {
+  background: #D7C0D0
+}
+h1 {
+  color: blue;
+}
+
+.btn {
+  display: block;
+  background: black ;
+  padding: 20px;
+  background: white;
+  margin: 16px;
+  box-shadow: 5px 10px;
+  
+}
